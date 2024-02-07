@@ -60,15 +60,18 @@ Here are some screenshots of the News App in action:
 
 ### Main Dashboard
 
-![Main Dashboard](/screenshots/main_dashboard.png)
+![Main Dashboard](https://github.com/Yash6900/NewsApp/blob/master/public/home%20page.png)
 
 Description: The main dashboard displays news articles categorized into different sections such as "Top Headlines," "Sports," "Technology," etc.
 
 ### Reading News Article
 
-![Reading News Article](/screenshots/reading_news_article.png)
-
+![Reading News Article](https://github.com/Yash6900/NewsApp/blob/master/public/newArticles.png)
 Description: Users can click on a news article to read the full story. The app displays the article's title, summary, and a link to the original source for more details.
+
+### Fetching Articles
+
+![Fetching Articles](https://github.com/Yash6900/NewsApp/blob/master/public/loading.png)
 
 
 ## Contact
