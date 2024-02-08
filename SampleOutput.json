@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "George Santos speaks out on possibly facing jail time | CNN Politics",
+      "description": "Former New York Republican Rep. George Santos is talking with federal prosecutors about a possible plea deal, according to court records. In an interview with CBS New York, Santos addressed the possibility. CNN’s Brynn Gingras has the details.",
+      "url": "https://www.cnn.com/videos/politics/2023/12/12/george-santos-possible-plea-deal-gingras-tsr-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231210150859-01-george-santos-110123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-12-12T01:22:24Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Zelensky heads to US in bid to rescue $60bn military aid",
+      "description": "The Ukrainian leader's third Washington visit comes with the military aid mired in US domestic politics.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67680337",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D7F7/production/_131978255_gettyimages-1682015355.jpg",
+      "publishedAt": "2023-12-11T13:22:18.7888846Z",
+      "content": "Ukraine President Volodymyr Zelensky is going to Washington DC to try to rescue a threatened US defence package to Kyiv worth billions of dollars.\r\nThe aid has become embroiled in US domestic, partis… [+2262 chars]"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
